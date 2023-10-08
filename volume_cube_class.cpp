@@ -1,3 +1,8 @@
+/*
+PRN- 22070123092
+Volume of cuboid using class.
+*/
+
 #include<iostream>
 using namespace std;
 class VolumeCube
@@ -30,3 +35,12 @@ int main()
     cube.display(volume);
     return 0;
 }
+
+/*
+OUTPUT:-
+
+Enter the length of the cuboid: 5
+Enter the breadth of the cuboid: 6
+Enter the height of the cuboid: 7
+210
+*/
