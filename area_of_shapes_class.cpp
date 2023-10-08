@@ -1,3 +1,8 @@
+/*
+PRN - 22070123092
+Area of various shapes using class.
+*/
+
 #include<iostream>
 using namespace std;
 class Shapes
@@ -62,3 +67,32 @@ int main()
     cout << "\n\n";
     return 0;
 }
+
+/*
+OUTPUT:
+
+Square
+Enter side of square: 5
+The area is: 25
+And the perimeter is: 20
+
+
+Rectangle
+Enter length of rectangle: 5
+Enter breadth of rectangle: 6
+The area is: 30
+And the perimeter is: 22
+
+
+Circle
+Enter radius of circle: 4
+The area is: 50.24
+And the circumference is: 25.12
+
+
+Triangle
+Enter side of equilateral triangle: 3
+Enter height of equilateral triangle: 2
+The area is: 3
+And the perimeter is: 9
+*/
