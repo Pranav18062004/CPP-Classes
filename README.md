@@ -1,5 +1,3 @@
-Certainly! Let's include a section that explains the theory behind classes in C++ in the GitHub README.md file. Here's the updated README with the theory section added:
-
 
 # Shape Calculations using C++ Classes
 
